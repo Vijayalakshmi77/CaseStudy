@@ -23,7 +23,7 @@
     <form:form modelAttribute="owner" class="form-horizontal" id="add-owner-form">
         <petclinic:inputField label="First Name" name="firstName"/>
         <petclinic:inputField label="Last Name" name="lastName"/>
-        <petclinic:inputField label="Address" name="address"/>
+        <petclinic:inputField label="Addressnew" name="address"/>
         <petclinic:inputField label="City" name="city"/>
         <petclinic:inputField label="Telephone" name="telephone"/>
 
